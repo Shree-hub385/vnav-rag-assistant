@@ -1,0 +1,146 @@
+[
+  {
+    "question": "What primary Robot Operating System and programming language are taught and practiced for the 'Manus / Practice' component of VNAV?",
+    "source": "Python-01.pdf",
+    "pages": [
+      5
+    ]
+  },
+  {
+    "question": "Which real robot hardware platform is featured for hands-on practice in the VNAV course?",
+    "source": "Python-01.pdf",
+    "pages": [
+      6
+    ]
+  },
+  {
+    "question": "According to the study by Evtimov et al. shown on perception failures, what caused neural networks to misclassify stop signs as speed limit 45 or yield signs?",
+    "source": "Python-01.pdf",
+    "pages": [
+      19
+    ]
+  },
+  {
+    "question": "What is the standard convention for the origin and axes of the camera coordinate frame (3D)?",
+    "source": "Python-02.pdf",
+    "pages": [
+      2
+    ]
+  },
+  {
+    "question": "At what pitch angle does the roll-pitch-yaw (RPY) Euler angle representation experience a singularity (Gimbal lock)?",
+    "source": "Python-02.pdf",
+    "pages": [
+      8
+    ]
+  },
+  {
+    "question": "What is the mathematical matrix formula for the inverse of a 3D pose T_r^w = [R_r^w, t_r^w; 0, 1]?",
+    "source": "Python-02.pdf",
+    "pages": [
+      14
+    ]
+  },
+  {
+    "question": "What matrix Lie algebra vector space corresponds to SO(3)?",
+    "source": "Python-03.pdf",
+    "pages": [
+      3
+    ]
+  },
+  {
+    "question": "What is the exact mathematical relation between the chordal distance dist_c(R_A, R_B) and the rotation angle theta in SO(3)?",
+    "source": "Python-03.pdf",
+    "pages": [
+      6
+    ]
+  },
+  {
+    "question": "At low speeds (< 10 m/s), which two aerodynamic effects dominate over hub forces, hub moments, rolling moments, and ground effect by more than an order of magnitude?",
+    "source": "Python-04.pdf",
+    "pages": [
+      2
+    ]
+  },
+  {
+    "question": "What four variables are selected as the flat outputs sigma to prove the differential flatness of quadrotor dynamics?",
+    "source": "Python-04.pdf",
+    "pages": [
+      5
+    ]
+  },
+  {
+    "question": "How is the rotation error e_R defined in the geometric controller on SO(3)?",
+    "source": "Python-05.pdf",
+    "pages": [
+      3
+    ]
+  },
+  {
+    "question": "Why is the total thrust f_z^B designed with a dot product with the body z-axis R_B^w * e_3 in the geometric controller?",
+    "source": "Python-05.pdf",
+    "pages": [
+      4
+    ]
+  },
+  {
+    "question": "What is the formula for the nominal motor speed omega_h required for steady-state hovering in the near-hovering controller?",
+    "source": "Python-05.pdf",
+    "pages": [
+      6
+    ]
+  },
+  {
+    "question": "How is a 'path' defined in contrast to a 'trajectory' in the decoupled planning overview?",
+    "source": "Python-06.pdf",
+    "pages": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "question": "What are the drawbacks and cons of using RRT* for smooth trajectory planning?",
+    "source": "Python-06.pdf",
+    "pages": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "question": "Depending on derivative r being minimized in single-segment trajectory optimization, what trajectories correspond to r=1, r=2, r=3, and r=4?",
+    "source": "Python-07.pdf",
+    "pages": [
+      3
+    ]
+  },
+  {
+    "question": "In Euler-Lagrange-based trajectory optimization, what is the resulting optimal polynomial order N for minimizing the r-th derivative cost L = (P^(r)(t))^2?",
+    "source": "Python-07.pdf",
+    "pages": [
+      4
+    ]
+  },
+  {
+    "question": "What is the minimum polynomial order required if the r-th derivative has to be minimized in QP-based trajectory optimization?",
+    "source": "Python-08.pdf",
+    "pages": [
+      1
+    ]
+  },
+  {
+    "question": "Why does the constrained QP formulation become problematic for higher-order polynomials and many waypoints, and how does the unconstrained formulation solve it?",
+    "source": "Python-08.pdf",
+    "pages": [
+      3
+    ]
+  },
+  {
+    "question": "If an obstacle collision is detected along the generated polynomial trajectory, how is the issue resolved in the decoupled planning workflow?",
+    "source": "Python-08.pdf",
+    "pages": [
+      4
+    ]
+  }
+]

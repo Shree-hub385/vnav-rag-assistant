@@ -1,0 +1,13 @@
+# Data and generated files
+data/
+chroma_db/
+results.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
