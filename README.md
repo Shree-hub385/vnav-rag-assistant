@@ -4,8 +4,8 @@ A Retrieval-Augmented Generation assistant that answers questions about MIT's
 *16.485: Visual Navigation for Autonomous Vehicles* lecture notes and cites the
 file and page for every answer.
 
-![alt text](<Screenshot 2026-11-09 165535.png>)
-![alt text](<Screenshot 2026-11-09 165813.png>)
+![Demo 1](images/demo1.png)
+![Demo 2](images/demo2.png)
 
 ## How it works
 
